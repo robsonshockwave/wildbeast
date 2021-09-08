@@ -28,4 +28,4 @@ Detalhes sobre cada um desses, podem ser encontrados nesse link:
 
 <hr>
 
-<h6>Feito com <3</h6>
+<h6>Feito com <3!</h6>
